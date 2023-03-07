@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/jorgejrdj"><img src="https://i.ibb.co/bHVkGTx/1525356724116.png" alt="1525356724116" border="0"></a> </p>
 
-# Rest - Restaurante: Landing Page criada com HTML e CSS
+# Rest - Landing Page criada com HTML e CSS
 
 Neste projeto, desenvolvi o "Rest - Restaurante Caiçara", landing page responsiva com HTML e CSS. O desenvolvimento dessa página faz parte do Curso "Tipografia Avançada", realizado pelo professor André Rafael na plataforma *ORIGAMID.* Para ver o resultado final funcionando, [clique aqui.](https://youtu.be/adNGtGl0C-M)
 
